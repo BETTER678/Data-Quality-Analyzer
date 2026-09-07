@@ -1,0 +1,8 @@
+venv/
+.git/
+__pycache__/
+*.pyc
+.env
+sample_data/
+tests/
+.dockerignore
